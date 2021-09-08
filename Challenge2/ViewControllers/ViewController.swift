@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
 // AJAY
     
-    
+    // kumar
     @IBOutlet weak var FeedsTableView: UITableView!
     
     var userData = [UserData]()
